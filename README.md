@@ -1,7 +1,6 @@
 # 2DshooterGame-2210991876-2210991617-2210991777-
 A 2D shooter game playable on browser with different levels.
 🚀 2D Space Shooter Game (Unity - WebGL)
-
 A fast-paced 2D space shooter game built with Unity, where you pilot a spacecraft and battle waves of alien enemies across multiple levels.
 
 🎮 Game Overview
@@ -27,6 +26,9 @@ Engine: Unity
 Language: C#
 Build Type: WebGL
 Tools Used: Unity Editor, Unity UI system
+
+To play directly This Game is hoisted on Itch.io :- [https://manasvi8274.itch.io/2d-shooter-game](url)
+
 ▶️ How to Play (Online)
 
 ⚠️ Make sure you use a modern browser (Chrome recommended)
